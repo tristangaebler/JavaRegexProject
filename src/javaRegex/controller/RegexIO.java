@@ -13,6 +13,7 @@ public class RegexIO
 	public boolean validFirstName()
 	{
 		boolean isValidFirstName = false;
+		String correctRegexInput = "[aA-zZ2-30]";
 		
 		return isValidFirstName;
 	}
