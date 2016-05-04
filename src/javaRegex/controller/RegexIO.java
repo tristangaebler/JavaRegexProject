@@ -1,7 +1,14 @@
 package javaRegex.controller;
 
+import java.util.regex.*;
+
 public class RegexIO
 {
+	
+	public RegexIO()
+	{
+		
+	}
 
 	public boolean validFirstName()
 	{
